@@ -10,7 +10,7 @@ blueprint:
       selector:
         device:
           manufacturer: LUMI
-          model: lumi.remote.b1acn01
+          model: lumi.remote.acn007
     press_action:
       name: Press Action
       description: Action to perform on Press.
